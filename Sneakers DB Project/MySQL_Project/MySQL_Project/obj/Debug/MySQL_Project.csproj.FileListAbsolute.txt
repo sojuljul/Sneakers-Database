@@ -1,0 +1,13 @@
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\bin\Debug\MySQL_Project.exe.config
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\bin\Debug\MySQL_Project.exe
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\bin\Debug\MySQL_Project.pdb
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\bin\Debug\MySql.Data.dll
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\bin\Debug\MySql.Data.xml
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\obj\Debug\MySQL_Project.csprojAssemblyReference.cache
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\obj\Debug\MySQL_Project.Form1.resources
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\obj\Debug\MySQL_Project.Properties.Resources.resources
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\obj\Debug\MySQL_Project.csproj.GenerateResource.cache
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\obj\Debug\MySQL_Project.csproj.CoreCompileInputs.cache
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\obj\Debug\MySQL_Project.csproj.CopyComplete
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\obj\Debug\MySQL_Project.exe
+C:\Users\JJ\source\repos\MySQL_Project\MySQL_Project\obj\Debug\MySQL_Project.pdb

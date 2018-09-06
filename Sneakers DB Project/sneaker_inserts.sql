@@ -110,3 +110,45 @@ INSERT INTO SHOE_COLOR VALUES('AH7006-002', 'Black/Lt Cream-White-Thunder Grey')
 
 INSERT INTO SHOE VALUES('AT8437-001', 'Nike Air Max 97 "Just Do It"' , '2018-08-01' , 170.00, 'Nike', 2);
 INSERT INTO SHOE_COLOR VALUES('AT8437-001', 'Black/Total Orange/White');
+
+INSERT INTO SHOE VALUES('AQ3816-056', 'Air Jordan 4 Raptors' , '2018-08-18' , 190.00, 'Nike', 2);
+INSERT INTO SHOE_COLOR VALUES('AQ3816-056', 'Black/University Red-Court Purple');
+
+INSERT INTO SHOE VALUES('AQ4211-101', 'Travis Scott x Nike Air Force 1' , '2018-08-10' , 150.00, 'Nike', 2);
+INSERT INTO SHOE_COLOR VALUES('AQ4211-101', 'Sail/Gum Light Brown/Sail');
+
+INSERT INTO SHOE VALUES('BB9531', 'Pharrell Williams x adidas NMD HU Trail' , '2018-08-18' , 250.00, 'Adidas', 1);
+INSERT INTO SHOE_COLOR VALUES('BB9531', 'Red/Bright Blue');
+
+INSERT INTO SHOE VALUES('B75571', 'adidas Yeezy Boost 700' , '2018-03-10' , 300.00, 'Adidas', 1);
+INSERT INTO SHOE_COLOR VALUES('B75571', 'Multi Solid Grey/Chalk White/Core Black');
+
+INSERT INTO PURCHASES VALUES('misterlee', 'AQ4211-101', '2018-08-10');
+INSERT INTO RESELLS VALUES('misterlee', 'AQ4211-101', 297.00);
+
+INSERT INTO PURCHASES VALUES('misterlee', 'AA3830-100', '2018-08-03');
+INSERT INTO RESELLS VALUES('misterlee', 'AA3830-100', 609.00);
+
+INSERT INTO PURCHASES VALUES('misterlee', 'AA3830-002', '2018-07-27');
+INSERT INTO RESELLS VALUES('misterlee', 'AA3830-002', 730.00);
+
+INSERT INTO PURCHASES VALUES('misterlee', 'B75571', '2018-03-10');
+INSERT INTO RESELLS VALUES('misterlee', 'B75571', 505.00);
+
+INSERT INTO SHOE VALUES('BV1803-106', 'Nigel Sylvester x Air Jordan 1 Retro High OG' , '2018-09-01' , 160.00, 'Nike', 2);
+INSERT INTO SHOE_COLOR VALUES('BV1803-106', 'Sail/White-Varsity Red-Reflect Silver');
+
+INSERT INTO SHOE VALUES('555088-801', 'Air Jordan 1 Retro High OG' , '2018-09-01' , 160.00, 'Nike', 2);
+INSERT INTO SHOE_COLOR VALUES('555088-801', 'Guava Ice/Sail');
+
+INSERT INTO SHOE VALUES('AV3809-700', 'Nike Air More Uptempo "UK"' , '2018-09-01' , 160.00, 'Nike', 2);
+INSERT INTO SHOE_COLOR VALUES('AV3809-700', 'Amarillo/Speed Red/Neptune');
+
+INSERT INTO SHOE VALUES('AV3811-600', 'Nike Air More Uptempo "Italy"' , '2018-08-25' , 160.00, 'Nike', 2);
+INSERT INTO SHOE_COLOR VALUES('AV3811-600', 'University Red/White-Lucid Green');
+
+INSERT INTO SHOE VALUES('AV3810-001', 'Nike Air More Uptempo "France"' , '2018-08-25' , 160.00, 'Nike', 2);
+INSERT INTO SHOE_COLOR VALUES('AV3810-001', 'Black/Metallic Gold');
+
+INSERT INTO SHOE VALUES('CM8109', 'adidas Ultra Boost' , '2018-08-25' , 180.00, 'Adidas', 1);
+INSERT INTO SHOE_COLOR VALUES('CM8109', 'Ash Silver/Carbon/Core Black');
